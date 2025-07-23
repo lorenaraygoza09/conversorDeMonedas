@@ -20,4 +20,6 @@
 - Validaciones y manejo de errores más robustos
 - Historial de conversiones y registros con marca de tiempo
 
-Espero que sea de tu agrado, cualquier duda o comentario ¡no dudes en contactarme!
+Espero que sea de tu agrado, cualquier duda o comentario ¡no dudes en contactarme! 
+[LinkedIn](https://www.linkedin.com/in/lorena-raygoza09/)
+
