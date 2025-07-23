@@ -2,10 +2,10 @@
 ¡Bienvenido a mi proyecto de conversor de monedas!  Aquí podrás calcular tu dinero entre varias divisas usando datos reales y actualizados 💰🌍
 
 ## Características principales
-* Consulta en tiempo real usando la ExchangeRate-API
-* Interfaz de consola sencilla 
-* Manejo básico de errores
-* Conversión entre pares:
+1. Consulta en tiempo real usando la ExchangeRate-API
+2. Interfaz de consola sencilla
+3. Manejo básico de errores
+4. Conversión entre pares:
 - Peso Mexicano 🇲🇽 ↔ Dólar Estadounidense 🇺🇸
 - Euro 🇪🇺 ↔ Won Surcoreano 🇰🇷
 - Dólar Canadiense 🇨🇦 ↔ Real Brasileño 🇧🇷
